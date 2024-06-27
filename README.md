@@ -19,3 +19,7 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0373-find-k-pairs-with-smallest-sums) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1916-find-center-of-star-graph) |
