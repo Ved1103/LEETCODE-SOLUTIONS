@@ -37,4 +37,20 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Depth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Graph
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
