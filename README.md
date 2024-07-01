@@ -59,4 +59,12 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## String
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
