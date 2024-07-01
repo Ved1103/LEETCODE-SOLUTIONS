@@ -30,6 +30,7 @@ Collection of solutions of some LeetCode questions
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Brainteaser
 |  |
 | ------- |
