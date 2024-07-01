@@ -28,6 +28,7 @@ Collection of solutions of some LeetCode questions
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Brainteaser
 |  |
