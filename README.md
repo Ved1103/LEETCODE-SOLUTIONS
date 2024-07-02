@@ -31,6 +31,7 @@ Collection of solutions of some LeetCode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1656-count-good-triplets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Brainteaser
 |  |
@@ -90,4 +91,8 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
