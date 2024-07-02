@@ -32,6 +32,7 @@ Collection of solutions of some LeetCode questions
 | [1293-three-consecutive-odds](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1656-count-good-triplets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1656-count-good-triplets) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Brainteaser
 |  |
@@ -76,11 +77,13 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +92,7 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -102,4 +106,8 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+## Prefix Sum
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
