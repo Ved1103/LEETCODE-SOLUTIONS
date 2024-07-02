@@ -50,6 +50,7 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Graph
 |  |
 | ------- |
@@ -115,4 +116,12 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
+## Tree
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Binary Tree
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
