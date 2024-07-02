@@ -103,6 +103,7 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1656-count-good-triplets) |
+| [2507-number-of-common-factors](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2507-number-of-common-factors) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Collection of solutions of some LeetCode questions
 ## Math
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
 ## Tree
 |  |
@@ -124,4 +126,8 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
