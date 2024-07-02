@@ -110,4 +110,9 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2571-find-the-pivot-integer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
+## Math
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
