@@ -67,6 +67,7 @@ Collection of solutions of some LeetCode questions
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,8 +93,13 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1656-count-good-triplets) |
+## Greedy
+|  |
+| ------- |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 <!---LeetCode Topics End-->
