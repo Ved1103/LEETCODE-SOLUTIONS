@@ -37,6 +37,7 @@ Collection of solutions of some LeetCode questions
 | [1656-count-good-triplets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Brainteaser
 |  |
@@ -51,12 +52,14 @@ Collection of solutions of some LeetCode questions
 | ------- |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
@@ -64,6 +67,7 @@ Collection of solutions of some LeetCode questions
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
@@ -73,6 +77,7 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## String
 |  |
@@ -98,6 +103,7 @@ Collection of solutions of some LeetCode questions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
@@ -145,6 +151,7 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
