@@ -47,16 +47,19 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
 |  |
 | ------- |
@@ -65,6 +68,7 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## String
 |  |
 | ------- |
