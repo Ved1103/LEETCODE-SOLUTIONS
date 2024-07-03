@@ -134,6 +134,7 @@ Collection of solutions of some LeetCode questions
 ## Math
 |  |
 | ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2507-number-of-common-factors](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2541-sum-of-number-and-its-reverse) |
