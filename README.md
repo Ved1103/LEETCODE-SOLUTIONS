@@ -74,12 +74,14 @@ Collection of solutions of some LeetCode questions
 ## String
 |  |
 | ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Stack
 |  |
 | ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
