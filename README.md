@@ -108,6 +108,7 @@ Collection of solutions of some LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -170,4 +171,8 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
