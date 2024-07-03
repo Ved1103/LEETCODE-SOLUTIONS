@@ -50,6 +50,7 @@ Collection of solutions of some LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -57,6 +58,7 @@ Collection of solutions of some LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -151,12 +153,14 @@ Collection of solutions of some LeetCode questions
 ## Tree
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Number Theory
