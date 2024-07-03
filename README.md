@@ -106,6 +106,7 @@ Collection of solutions of some LeetCode questions
 | ------- |
 | [1656-count-good-triplets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [2507-number-of-common-factors](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2507-number-of-common-factors) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of solutions of some LeetCode questions
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2571-find-the-pivot-integer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2571-find-the-pivot-integer) |
 ## Tree
 |  |
