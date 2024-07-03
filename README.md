@@ -28,6 +28,7 @@ Collection of solutions of some LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -142,4 +143,12 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2507-number-of-common-factors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
