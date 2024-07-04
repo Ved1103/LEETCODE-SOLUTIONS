@@ -36,6 +36,7 @@ Collection of solutions of some LeetCode questions
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1656-count-good-triplets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -106,6 +107,7 @@ Collection of solutions of some LeetCode questions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
