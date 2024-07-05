@@ -182,5 +182,6 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
