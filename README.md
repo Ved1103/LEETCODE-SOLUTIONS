@@ -40,6 +40,7 @@ Collection of solutions of some LeetCode questions
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2634-minimum-common-value](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2634-minimum-common-value) |
 ## Brainteaser
 |  |
 | ------- |
@@ -110,18 +111,21 @@ Collection of solutions of some LeetCode questions
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2634-minimum-common-value](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2634-minimum-common-value](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2634-minimum-common-value](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
