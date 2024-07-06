@@ -20,4 +20,12 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0404-sum-of-left-leaves) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
