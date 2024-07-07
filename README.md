@@ -23,9 +23,11 @@ Collection of solutions of some LeetCode questions
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
