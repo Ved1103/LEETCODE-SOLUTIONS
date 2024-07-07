@@ -24,10 +24,19 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2645-pass-the-pillow](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2645-pass-the-pillow) |
+## Array
+|  |
+| ------- |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+## Number Theory
+|  |
+| ------- |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 <!---LeetCode Topics End-->
