@@ -36,6 +36,7 @@ Collection of solutions of some LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0940-fruit-into-baskets) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 ## Number Theory
@@ -50,4 +51,12 @@ Collection of solutions of some LeetCode questions
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0940-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
