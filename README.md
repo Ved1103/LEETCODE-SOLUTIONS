@@ -75,6 +75,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Array
 |  |
 | ------- |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1803-average-waiting-time) |
 ## Simulation
@@ -97,4 +98,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
+## Matrix
+|  |
+| ------- |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1704-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
