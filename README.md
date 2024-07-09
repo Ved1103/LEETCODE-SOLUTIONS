@@ -75,6 +75,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Array
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1803-average-waiting-time) |
 ## Simulation
 |  |
@@ -88,4 +89,12 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+## Hash Table
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
+## Sorting
+|  |
+| ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
