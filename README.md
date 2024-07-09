@@ -93,6 +93,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Hash Table
 |  |
 | ------- |
+| [1619-path-crossing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -102,4 +103,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1704-special-positions-in-a-binary-matrix) |
+## String
+|  |
+| ------- |
+| [1619-path-crossing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1619-path-crossing) |
 <!---LeetCode Topics End-->
