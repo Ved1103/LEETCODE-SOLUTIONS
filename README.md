@@ -69,3 +69,15 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1803-average-waiting-time) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1803-average-waiting-time) |
+<!---LeetCode Topics End-->
