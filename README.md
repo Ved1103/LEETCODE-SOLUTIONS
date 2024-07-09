@@ -80,4 +80,12 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1803-average-waiting-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
+## Memoization
+|  |
+| ------- |
+| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
 <!---LeetCode Topics End-->
