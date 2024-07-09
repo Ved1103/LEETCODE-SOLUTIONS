@@ -93,6 +93,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Hash Table
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1619-path-crossing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -106,5 +107,18 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## String
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1619-path-crossing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1619-path-crossing) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
