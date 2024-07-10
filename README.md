@@ -49,7 +49,7 @@ LeetCode-Solutions
 
    Each solution file (problem.cpp) contains code that can be run directly on the LeetCode platform. These files cannot be compiled and run locally as they are meant to be executed within the LeetCode environment.
 
-4. Understand the Question
+4. **Understand the Question**
 
    Each problem folder includes a README.md file with question explanation.
 
@@ -70,63 +70,3 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0442-find-all-duplicates-in-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
-| [1704-special-positions-in-a-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1704-special-positions-in-a-binary-matrix) |
-| [1720-crawler-log-folder](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1720-crawler-log-folder) |
-| [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
-| [1803-average-waiting-time](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1803-average-waiting-time) |
-## Simulation
-|  |
-| ------- |
-| [1803-average-waiting-time](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1803-average-waiting-time) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
-## Memoization
-|  |
-| ------- |
-| [1676-minimum-number-of-days-to-eat-n-oranges](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1676-minimum-number-of-days-to-eat-n-oranges) |
-## Hash Table
-|  |
-| ------- |
-| [0442-find-all-duplicates-in-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0442-find-all-duplicates-in-an-array) |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-| [1619-path-crossing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1619-path-crossing) |
-| [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
-## Sorting
-|  |
-| ------- |
-| [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
-## Matrix
-|  |
-| ------- |
-| [1704-special-positions-in-a-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1704-special-positions-in-a-binary-matrix) |
-## String
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-| [1619-path-crossing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1619-path-crossing) |
-| [1720-crawler-log-folder](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1720-crawler-log-folder) |
-## Bit Manipulation
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-## Rolling Hash
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-## Hash Function
-|  |
-| ------- |
-| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
-## Stack
-|  |
-| ------- |
-| [1720-crawler-log-folder](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1720-crawler-log-folder) |
-<!---LeetCode Topics End-->
