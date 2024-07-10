@@ -80,6 +80,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -97,4 +98,12 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
