@@ -83,6 +83,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 ## Queue
 |  |
 | ------- |
@@ -111,4 +112,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 <!---LeetCode Topics End-->
