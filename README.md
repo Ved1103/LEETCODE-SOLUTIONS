@@ -79,6 +79,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0008-string-to-integer-atoi](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
 | ------- |
@@ -122,4 +123,12 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
+## Hash Table
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
