@@ -77,6 +77,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
+| [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -114,12 +115,14 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -129,6 +132,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
