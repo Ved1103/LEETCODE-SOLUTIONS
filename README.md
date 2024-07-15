@@ -88,6 +88,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
@@ -123,6 +124,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
@@ -161,4 +163,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
