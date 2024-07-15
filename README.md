@@ -82,6 +82,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
 ## Queue
@@ -112,6 +114,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
+| [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +142,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Counting
 |  |
