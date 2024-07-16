@@ -83,6 +83,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Array
 |  |
 | ------- |
@@ -158,13 +159,19 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
+## Depth-First Search
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
