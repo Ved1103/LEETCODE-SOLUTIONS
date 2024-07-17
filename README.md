@@ -80,6 +80,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -195,4 +196,5 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
