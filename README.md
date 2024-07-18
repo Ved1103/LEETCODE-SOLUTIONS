@@ -172,6 +172,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
@@ -180,6 +181,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Monotonic Stack
@@ -192,6 +194,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Prefix Sum
 |  |
