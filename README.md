@@ -238,5 +238,6 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
