@@ -235,4 +235,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
