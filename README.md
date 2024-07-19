@@ -97,6 +97,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
@@ -225,6 +226,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
