@@ -78,6 +78,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0316-remove-duplicate-letters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -136,6 +137,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -151,6 +153,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Table
@@ -197,6 +200,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
