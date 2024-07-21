@@ -107,6 +107,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
 ## Queue
 |  |
@@ -241,6 +242,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0063-unique-paths-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -254,4 +256,12 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1258-article-views-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1908-recyclable-and-low-fat-products) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
