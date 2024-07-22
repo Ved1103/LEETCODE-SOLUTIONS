@@ -88,6 +88,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -157,6 +159,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2502-sort-the-people](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -175,6 +178,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting
 |  |
