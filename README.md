@@ -147,6 +147,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
@@ -193,6 +194,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
@@ -203,6 +205,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Binary Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
@@ -218,6 +221,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
@@ -273,4 +277,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
