@@ -272,6 +272,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Database
 |  |
 | ------- |
@@ -285,6 +286,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -319,5 +321,6 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
