@@ -100,6 +100,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0318-maximum-product-of-word-lengths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0416-partition-equal-subset-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -128,6 +129,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
