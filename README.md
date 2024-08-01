@@ -215,6 +215,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -227,6 +228,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -244,6 +246,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Prefix Sum
@@ -282,6 +285,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Database
 |  |
