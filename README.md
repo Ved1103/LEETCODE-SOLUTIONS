@@ -170,6 +170,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +285,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -326,6 +328,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
