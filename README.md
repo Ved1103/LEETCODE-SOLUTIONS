@@ -96,6 +96,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
@@ -195,6 +196,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
@@ -218,6 +220,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -234,6 +237,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0113-path-sum-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -335,6 +339,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
