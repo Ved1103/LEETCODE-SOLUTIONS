@@ -112,6 +112,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -180,6 +181,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2502-sort-the-people](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
@@ -200,6 +202,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
