@@ -82,6 +82,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0318-maximum-product-of-word-lengths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0678-valid-parenthesis-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -160,6 +161,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0113-path-sum-ii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
@@ -238,6 +240,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -255,6 +258,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -277,6 +281,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0437-path-sum-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
