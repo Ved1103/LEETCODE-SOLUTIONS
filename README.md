@@ -109,6 +109,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0948-sort-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -138,6 +139,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -205,6 +207,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -217,6 +220,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
