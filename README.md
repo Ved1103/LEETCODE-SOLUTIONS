@@ -93,6 +93,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
@@ -203,6 +204,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0678-valid-parenthesis-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,6 +315,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0062-unique-paths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Combinatorics
 |  |
 | ------- |
