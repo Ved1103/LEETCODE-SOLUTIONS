@@ -118,6 +118,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1046-max-consecutive-ones-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1418-fair-distribution-of-cookies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1418-fair-distribution-of-cookies) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -166,12 +167,14 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1418-fair-distribution-of-cookies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1418-fair-distribution-of-cookies) |
 | [2107-find-unique-binary-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2107-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
+| [1418-fair-distribution-of-cookies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1418-fair-distribution-of-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +314,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [1418-fair-distribution-of-cookies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -407,4 +411,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
