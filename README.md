@@ -169,6 +169,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0113-path-sum-ii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
