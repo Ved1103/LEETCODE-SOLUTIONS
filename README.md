@@ -115,6 +115,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0921-spiral-matrix-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
@@ -249,6 +250,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0921-spiral-matrix-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
 ## Tree
@@ -345,6 +347,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0463-island-perimeter](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
+| [0921-spiral-matrix-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
