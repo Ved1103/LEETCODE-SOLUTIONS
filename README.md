@@ -115,6 +115,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -229,6 +230,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -336,6 +338,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0062-unique-paths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0273-integer-to-english-words](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Combinatorics
@@ -347,6 +350,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0063-unique-paths-ii) |
 | [0463-island-perimeter](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
+| [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
