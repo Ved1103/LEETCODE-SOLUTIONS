@@ -261,6 +261,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0921-spiral-matrix-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0921-spiral-matrix-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2846-robot-collisions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2846-robot-collisions) |
@@ -356,6 +357,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0062-unique-paths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -469,4 +471,5 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
