@@ -119,6 +119,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0921-spiral-matrix-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
@@ -231,6 +232,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -306,6 +308,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0437-path-sum-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1207-delete-nodes-and-return-forest) |
@@ -352,6 +355,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0463-island-perimeter](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2472-build-a-matrix-with-conditions) |
@@ -360,6 +364,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0463-island-perimeter](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -431,4 +436,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1418-fair-distribution-of-cookies) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
