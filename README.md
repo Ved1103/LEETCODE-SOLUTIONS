@@ -108,6 +108,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0134-gas-station](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0416-partition-equal-subset-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
@@ -346,6 +347,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -450,4 +452,12 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
