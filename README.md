@@ -109,6 +109,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0134-gas-station](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0416-partition-equal-subset-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
@@ -152,6 +153,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
@@ -326,6 +328,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -439,6 +442,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 ## Recursion
 |  |
