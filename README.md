@@ -112,6 +112,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0164-maximum-gap](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0416-partition-equal-subset-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
@@ -157,6 +158,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
@@ -239,6 +241,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0041-first-missing-positive](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0219-contains-duplicate-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
