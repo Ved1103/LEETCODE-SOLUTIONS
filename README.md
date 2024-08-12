@@ -87,6 +87,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0318-maximum-product-of-word-lengths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0678-valid-parenthesis-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0768-partition-labels) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -230,6 +231,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0316-remove-duplicate-letters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0678-valid-parenthesis-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0768-partition-labels) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -246,6 +248,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1034-subarrays-with-k-different-integers) |
@@ -485,4 +488,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0223-rectangle-area) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
