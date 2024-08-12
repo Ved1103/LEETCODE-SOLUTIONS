@@ -365,6 +365,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0062-unique-paths](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
@@ -480,4 +481,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0204-count-primes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
