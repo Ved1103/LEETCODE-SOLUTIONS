@@ -119,6 +119,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
@@ -243,6 +244,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0575-distribute-candies) |
 | [0726-number-of-atoms](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0999-regions-cut-by-slashes) |
