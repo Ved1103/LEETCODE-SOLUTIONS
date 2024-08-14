@@ -75,6 +75,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,4 +92,16 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Binary Search
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Sorting
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
 <!---LeetCode Topics End-->
