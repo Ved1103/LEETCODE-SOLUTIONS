@@ -76,6 +76,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,4 +105,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
