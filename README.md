@@ -89,6 +89,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,4 +110,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
