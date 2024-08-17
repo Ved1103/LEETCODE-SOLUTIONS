@@ -91,6 +91,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
@@ -121,6 +122,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
