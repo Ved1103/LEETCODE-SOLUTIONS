@@ -75,6 +75,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0040-combination-sum-ii) |
+| [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -106,6 +107,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
@@ -114,6 +116,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 ## String Matching
 |  |
@@ -123,6 +126,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0264-ugly-number-ii) |
+| [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
@@ -135,4 +139,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0264-ugly-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
