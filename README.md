@@ -92,6 +92,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
@@ -127,6 +128,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
