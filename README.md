@@ -135,6 +135,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0650-2-keys-keyboard) |
 | [1170-shortest-common-supersequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -143,6 +144,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0650-2-keys-keyboard](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0650-2-keys-keyboard) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Heap (Priority Queue)
 |  |
