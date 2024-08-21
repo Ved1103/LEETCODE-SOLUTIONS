@@ -99,6 +99,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
+| [0664-strange-printer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0664-strange-printer) |
 | [0686-repeated-string-match](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0686-repeated-string-match) |
 | [1170-shortest-common-supersequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
@@ -137,6 +138,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0664-strange-printer) |
 | [1170-shortest-common-supersequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
