@@ -164,6 +164,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0476-number-complement](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0476-number-complement) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Game Theory
 |  |
