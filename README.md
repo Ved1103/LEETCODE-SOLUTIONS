@@ -95,6 +95,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0516-longest-palindromic-subsequence) |
@@ -133,6 +134,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
