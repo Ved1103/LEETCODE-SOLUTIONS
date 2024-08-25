@@ -81,6 +81,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1240-stone-game-ii) |
@@ -133,6 +134,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0044-wildcard-matching](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0410-split-array-largest-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 ## String Matching
 |  |
@@ -154,6 +156,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0583-delete-operation-for-two-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0664-strange-printer) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1170-shortest-common-supersequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
