@@ -86,6 +86,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
 | [1240-stone-game-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3374-count-alternating-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3374-count-alternating-subarrays) |
@@ -179,6 +180,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0264-ugly-number-ii) |
+| [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,4 +219,12 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
