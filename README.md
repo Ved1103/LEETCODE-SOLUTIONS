@@ -88,6 +88,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1240-stone-game-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2067-maximum-number-of-points-with-cost) |
 | [3374-count-alternating-subarrays](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3374-count-alternating-subarrays) |
 ## Backtracking
@@ -132,6 +133,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +167,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1170-shortest-common-supersequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Math
 |  |
