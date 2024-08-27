@@ -85,6 +85,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0890-lemonade-change) |
+| [1025-minimum-cost-for-tickets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -164,6 +165,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0650-2-keys-keyboard](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0664-strange-printer) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1025-minimum-cost-for-tickets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1250-longest-common-subsequence) |
