@@ -78,4 +78,20 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
+## Hash Table
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Depth-First Search
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Union Find
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
