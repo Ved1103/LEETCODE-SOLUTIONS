@@ -95,6 +95,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2803-modify-graph-edge-weights](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2803-modify-graph-edge-weights) |
 ## String
 |  |
 | ------- |
@@ -108,4 +109,12 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
