@@ -84,6 +84,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0091-decode-ways](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -112,6 +113,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0091-decode-ways](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 ## Stack
 |  |
@@ -120,6 +122,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 ## Heap (Priority Queue)
 |  |
@@ -143,6 +146,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
@@ -156,4 +160,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
