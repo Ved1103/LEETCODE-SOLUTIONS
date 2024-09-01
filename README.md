@@ -82,6 +82,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
@@ -109,6 +110,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 ## Stack
