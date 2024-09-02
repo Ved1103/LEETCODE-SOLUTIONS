@@ -76,6 +76,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -92,6 +93,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -131,6 +133,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 ## Heap (Priority Queue)
 |  |
@@ -156,6 +159,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
@@ -195,4 +199,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
