@@ -77,6 +77,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0735-asteroid-collision](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -129,6 +130,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -154,6 +156,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
