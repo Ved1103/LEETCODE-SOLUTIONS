@@ -18,7 +18,7 @@ public:
             return a->val > b->val;
         };
         priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
-        for (int i = 0; i < n; ++i) {
+        for (int i = 0; i < n; i++) {
             if (lists[i]) {
                 pq.push(lists[i]);
             }
