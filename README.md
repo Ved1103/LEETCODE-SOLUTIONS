@@ -86,6 +86,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2155-find-missing-observations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Dynamic Programming
 |  |
@@ -172,11 +173,13 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2155-find-missing-observations) |
 ## Math
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [2155-find-missing-observations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2155-find-missing-observations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
