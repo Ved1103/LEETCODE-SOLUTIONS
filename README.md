@@ -75,6 +75,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0057-insert-interval](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0057-insert-interval) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0174-dungeon-game](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0413-arithmetic-slices) |
@@ -96,6 +97,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0087-scramble-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
+| [0174-dungeon-game](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0174-dungeon-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
@@ -166,6 +168,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0174-dungeon-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
