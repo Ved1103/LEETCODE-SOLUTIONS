@@ -74,6 +74,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0057-insert-interval) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0413-arithmetic-slices) |
@@ -217,6 +218,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
