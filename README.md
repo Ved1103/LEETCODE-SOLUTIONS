@@ -254,6 +254,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+| [0725-split-linked-list-in-parts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Merge Sort
