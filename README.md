@@ -107,6 +107,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -148,6 +149,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0132-palindrome-partitioning-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
@@ -273,4 +275,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
