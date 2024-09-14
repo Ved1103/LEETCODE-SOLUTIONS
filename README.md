@@ -93,6 +93,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -300,8 +301,13 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1435-xor-queries-of-a-subarray](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
