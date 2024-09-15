@@ -126,6 +126,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -159,6 +160,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
@@ -247,6 +249,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
@@ -306,6 +309,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
