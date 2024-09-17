@@ -125,6 +125,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -159,6 +160,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -316,6 +318,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
