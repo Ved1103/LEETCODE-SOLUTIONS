@@ -157,6 +157,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0087-scramble-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0091-decode-ways) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
+| [0214-shortest-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
@@ -332,4 +333,16 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
