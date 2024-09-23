@@ -97,6 +97,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2411-spiral-matrix-iv](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3391-maximum-difference-score-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
 | [3391-maximum-difference-score-in-a-grid](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3391-maximum-difference-score-in-a-grid) |
 ## Hash Table
 |  |
@@ -130,6 +132,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
@@ -166,6 +169,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -345,4 +349,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
