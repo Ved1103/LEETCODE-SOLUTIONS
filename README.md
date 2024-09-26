@@ -82,6 +82,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
+| [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -273,6 +274,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
@@ -366,4 +368,16 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
