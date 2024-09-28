@@ -86,6 +86,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0731-my-calendar-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0859-design-circular-deque](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
@@ -299,6 +300,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -348,6 +350,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -376,6 +379,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
