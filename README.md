@@ -132,6 +132,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0432-all-oone-data-structure](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -299,6 +300,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+| [0432-all-oone-data-structure](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
@@ -377,6 +379,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0859-design-circular-deque) |
@@ -390,4 +393,8 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
