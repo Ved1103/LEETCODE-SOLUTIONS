@@ -93,6 +93,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -185,6 +186,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -383,6 +385,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0729-my-calendar-i](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
