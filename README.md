@@ -74,6 +74,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0312-burst-balloons) |
@@ -132,6 +133,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
@@ -153,6 +155,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
