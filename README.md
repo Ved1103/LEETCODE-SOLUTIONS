@@ -194,6 +194,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
+| [0060-permutation-sequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
@@ -235,6 +236,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0486-predict-the-winner) |
 | [2155-find-missing-observations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2155-find-missing-observations) |
