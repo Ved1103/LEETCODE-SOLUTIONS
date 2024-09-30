@@ -133,6 +133,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0432-all-oone-data-structure) |
@@ -171,6 +172,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0010-regular-expression-matching](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0010-regular-expression-matching) |
 | [0087-scramble-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0091-decode-ways) |
+| [0127-word-ladder](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
@@ -300,6 +302,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
