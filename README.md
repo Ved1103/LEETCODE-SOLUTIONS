@@ -91,6 +91,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1435-xor-queries-of-a-subarray) |
@@ -140,6 +141,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -252,6 +254,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1256-rank-transform-of-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
