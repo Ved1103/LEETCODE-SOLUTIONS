@@ -91,6 +91,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1121-partition-array-for-maximum-sum) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -225,6 +226,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0174-dungeon-game](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2411-spiral-matrix-iv) |
@@ -311,6 +313,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0127-word-ladder](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
 ## Linked List
 |  |
