@@ -140,6 +140,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0128-longest-consecutive-sequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -183,6 +184,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0214-shortest-palindrome](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0433-minimum-genetic-mutation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -315,6 +317,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0127-word-ladder](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0433-minimum-genetic-mutation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0433-minimum-genetic-mutation) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1484-linked-list-in-binary-tree) |
