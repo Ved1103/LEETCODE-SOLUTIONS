@@ -99,6 +99,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2155-find-missing-observations) |
@@ -191,6 +192,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
@@ -353,6 +355,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Number Theory
 |  |
