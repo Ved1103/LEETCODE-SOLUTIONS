@@ -194,6 +194,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -204,6 +205,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0735-asteroid-collision](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
@@ -313,6 +315,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0376-wiggle-subsequence) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Game Theory
 |  |
 | ------- |
@@ -359,6 +362,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0567-permutation-in-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Number Theory
 |  |
