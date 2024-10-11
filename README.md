@@ -101,6 +101,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2411-spiral-matrix-iv) |
@@ -149,6 +150,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1256-rank-transform-of-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
@@ -223,6 +225,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2803-modify-graph-edge-weights](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
