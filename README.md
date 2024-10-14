@@ -110,6 +110,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2755-extra-characters-in-a-string](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -231,6 +232,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1325-path-with-maximum-probability](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -330,6 +332,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Game Theory
 |  |
 | ------- |
