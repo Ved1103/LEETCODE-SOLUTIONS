@@ -108,6 +108,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [2411-spiral-matrix-iv](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -283,6 +284,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
@@ -333,6 +335,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
@@ -383,6 +386,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 | [1923-sentence-similarity-iii](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Ved1103/LEETCODE-SOLUTIONS/tree/master/3195-separate-black-and-white-balls) |
 ## Number Theory
